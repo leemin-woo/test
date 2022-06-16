@@ -46,14 +46,14 @@ function App() {
       <h4 id={'id-App'} className="App-title">Petrol</h4>
       <div id={'id-Box'} className="arr-box-container">
         <div className="arr-box">
-          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="DigiNet" className={'img'} />
+          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="test" className={'img'} />
           <div style={{paddingLeft: "24px"}}>
             <p className="box-content-title" style={{color: '#0062FF', fontWeight: "600"}}>15 Coins</p>
             <p className="App-header-content" style={{color: '#92929D'}}>50% discount for every $100 top-up on your Shell Petrol Card</p>
           </div>
         </div>
         <div className="arr-box">
-          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="DigiNet" className={'img'} />
+          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="test" className={'img'} />
           <div style={{paddingLeft: "24px"}}>
             <p className="box-content-title" style={{color: '#696974', fontWeight: "600"}}>1,000 Coins</p>
               <p className="box-content-title" style={{color: '#92929D'}}>70% discount top-up on your Shell Petrol Card</p>
@@ -64,14 +64,14 @@ function App() {
       <h4 id={'id-App'} className="App-title">Rental Rebate</h4>
       <div id={'id-Box'} className="arr-box-container">
         <div className="arr-box">
-          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="DigiNet" className={'img'} />
+          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="test" className={'img'} />
           <div style={{paddingLeft: "24px"}}>
             <p className="box-content-title" style={{color: '#0062FF', fontWeight: "600"}}>20 Coins</p>
             <p className="box-content-title" style={{color: '#92929D'}}>Get $20 Rental rebate</p>
           </div>
         </div>
         <div className="arr-box">
-          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="DigiNet" className={'img'} />
+          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="test" className={'img'} />
           <div style={{paddingLeft: "24px"}}>
             <p className="box-content-title" style={{color: '#0062FF', fontWeight: "600"}}>15 Coins</p>
             <p className="box-content-title" style={{color: '#92929D'}}>Get $500 Rental rebate</p>
@@ -81,7 +81,7 @@ function App() {
       <h4 id={'id-App'} className="App-title">Food and Beverage</h4>
       <div id={'id-Box'} className="arr-box-container">
         <div className="arr-box">
-          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="DigiNet" className={'img'} />
+          <img src={'https://cdn-dcncg.nitrocdn.com/hZlJZkFgFTscnjzZTAIxXLTgJQqkKAnh/assets/static/optimized/rev-f8685cf/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg'} alt="test" className={'img'} />
           <div style={{paddingLeft: "24px"}}>
             <p className="box-content-title" style={{color: '#0062FF', fontWeight: "600"}}>25 Coins</p>
             <p className="box-content-title" style={{color: '#92929D'}}>NTUC Fairprice $50 Voucher</p>
