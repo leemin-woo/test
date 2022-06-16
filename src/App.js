@@ -4,8 +4,10 @@ import { useEffect } from "react";
 function App() {
   useEffect(() => {
     const data = document.getElementById('box-content').getBoundingClientRect();
+    const height = document.querySelector('#id-header').offsetHeight;
     const top = Math.round(data.height/3);
     if(data) {
+      document.getElementById('box-content').style.top = height/2 + 'px';
       const count = document.querySelectorAll('#id-App').length;
       for(let i = 0; i < count; i++) {
         document.querySelectorAll('#id-App')[i].style.top = top + 'px';
@@ -16,7 +18,7 @@ function App() {
 }, []);
   return (
     <div className="App">
-      <header className="App-header">
+      <header id={'id-header'} className="App-header">
         <span className="App-header-icon">
           <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path
